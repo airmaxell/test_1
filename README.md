@@ -1,2 +1,4 @@
 # test_1
-Quantox tests
+Quantox test files
+1. human.php
+2. robot.txt
