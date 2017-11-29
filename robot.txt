@@ -1,3 +1,9 @@
-loop;
-    
-endloop;
+loop_slow
+R
+L
+R
+S
+G (loop_slow)
+loop_fast
+R
+G (loop_fast) 
